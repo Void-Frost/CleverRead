@@ -1,0 +1,5 @@
+If you're reading this, and you're not part of the dev team, congrats! This is a little "secret" page.
+It doesn't hold any conspiracy theories, unfortunately. It's just a text file where we put code snippets for that copy-pasting action, for example the code for the topbar, that is on every page of this website.
+
+
+TOPBAR:

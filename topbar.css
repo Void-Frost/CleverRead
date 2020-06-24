@@ -1,0 +1,14 @@
+.topbar {
+    background-color: #2a9fd4;
+    border: 5px;
+    height: 5%;
+    width: 100%;
+}
+.topbarbutton {
+    background-color: transparent;
+    color: white;
+    border-color: transparent;
+    font-size: 1vw;
+    margin: 0.5vw;
+    outline-color:white;
+}
