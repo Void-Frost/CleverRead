@@ -1,9 +1,9 @@
 # IMPORTANT
-This website DOES NOT WORK, and has 0 articles. I am in process of building the framework of the website, then I will write some articles.
+This website DOES NOT WORK, and has 0 articles. I am in process of building the framework of the website, then I will write some fun articles.
 
 # CleverRead
-CleverRead is a work-in-progress article website,that doesn't provide news, but provides fun things, with zero to little advertising.
-The inspiration for CleverRead was basically me being tired of seeing so many clickbait articles that sound cool. They do a good job at perking interest.
+CleverRead is a work-in-progress article website,that doesn't provide news, but provides fun things (pop culture articles?) , with zero to little advertising.
+The inspiration for CleverRead was basically: I was tired of seeing so many clickbait articles that sound cool. They do a good job at perking interest.
 CleverRead plans to provide the same clickbait-type content (you wont believe what these celebrities look like now!) without the clickbait titles, without the "slideshow-style" webpages, and without the clutter-y, slow, ads.
 
 # How will you pay for it?
